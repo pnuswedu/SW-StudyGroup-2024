@@ -11,10 +11,9 @@
 - [https://classroom.github.com/a/vjhRIdWu](https://classroom.github.com/a/vjhRIdWu)
 - 위 Github Classroom 링크에 접속해 본인 조의 github 레파지토리를 생성하세요.
   <img src="https://github.com/user-attachments/assets/f0bc19a9-f2e5-495f-b197-257f119d2ad4" width="600px" alt="classroom에서 팀 생성 그림" />
-
-- 레파지토리 생성 시 팀 이름은 `{연도}-TEAM-{조번호}` 형식으로 생성하세요.
-- 예를 들어, 2024년도 3조의 팀명은 `2024-TEAM-03` 입니다.
-- 이 경우 `PNUSW-2024-TEAM-03`이라는 이름으로 레포지토리가 생성됩니다.
+- 레파지토리 생성 시 팀 이름은 `{조번호}` 형식으로 생성하세요.
+- 예를 들어, 3조의 팀명은 `03` 입니다.
+- 이 경우 `Group-03`이라는 이름으로 레포지토리가 생성됩니다.
 <br/>
 
 
